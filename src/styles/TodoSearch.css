@@ -1,0 +1,13 @@
+#sectionTodoSearch{
+    display: block;
+    margin: auto;
+    width: 60%;
+    background-color: aquamarine;    
+    text-align: center;
+}
+
+.inputSearch{
+    margin-top: 12px;
+    width: 70%; 
+    margin-bottom: 12px;   
+}

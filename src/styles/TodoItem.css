@@ -1,0 +1,14 @@
+li{
+    color: blueviolet;
+    border-style: groove;
+    display: inline-flexbox;
+}
+
+
+li > button{
+    float: right;
+}
+
+.todo-done{
+    text-decoration: line-through;
+}

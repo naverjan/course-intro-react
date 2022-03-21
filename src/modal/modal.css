@@ -1,0 +1,33 @@
+.modal-contenido{
+    background-color:aqua;
+    width:300px;
+    padding: 10px 20px;
+    top: 40%;
+    right: 41%;
+    position: fixed;
+    display: inline;
+    text-align: center;
+  }
+  .modal{
+    background-color: rgba(0,0,0,.8);
+    position:fixed;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    opacity:1;
+    pointer-events:auto;
+    transition: all 1s;
+  }
+
+  .btnClose{
+    cursor: pointer;
+  }
+
+  #textTodo{
+    width: 80%;
+  }
+
+  .btnCreate{
+    padding: 5px 10px;
+  }

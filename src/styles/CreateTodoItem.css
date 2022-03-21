@@ -1,0 +1,10 @@
+#sectionCreateTodo{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.btnCreate{
+    background-color: grey;
+    padding: 5px 10px 5px 10px;
+}
